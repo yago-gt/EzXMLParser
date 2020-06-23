@@ -1,4 +1,4 @@
-## Release under the zlib license
+## Released under the zlib license
 
 Copyright (c) 2020 Yago G. Tassello
 
